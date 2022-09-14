@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Arihant
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning BE (Mechanical Engineering)
+- ✨ I'm currently working as a Trainee Software Developer (React + Sql Server + .Net)
+- 🌱 I’m BE (Mechanical Engineer)
 - 📫 How to reach me - arihantphad2@gmail.com
 
 <!---
