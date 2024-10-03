@@ -37,7 +37,7 @@ A dynamic website for a client with admin login, email notifications, and dynami
 Feel free to reach out for any collaboration, project inquiries, or just to say hi!
 
 - 📧 Email: [arihantphad2@gmail.com](mailto:arihantphad2@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/arihantphad)
 
 
 
