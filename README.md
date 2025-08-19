@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a **Full Stack .NET Developer** with expertise
 
 ## 📂 My Projects
 
-### [Cloud Square Website](https://github.com/arihantp2/cloudsquare)
+### [Cloud Square Website](https://github.com/arihantp2/CloudSqaureSite)
 A dynamic website for a client with admin login, email notifications, and dynamic management for services and content.
 
 ### [More Projects](https://github.com/arihantp2?tab=repositories)
